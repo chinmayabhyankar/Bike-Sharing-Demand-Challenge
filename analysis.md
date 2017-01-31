@@ -124,7 +124,8 @@ qplot(atemp, data = datacombined,binwidth = .1)
 qplot(windspeed, data = datacombined,binwidth = .1)
 ```
 
-![](analysis_files/figure-markdown_github/unnamed-chunk-6-8.png) \#some inferences from the above plot
+![](analysis_files/figure-markdown_github/unnamed-chunk-6-8.png) 
+\#some inferences from the above plot
 
 ``` r
 #season has 4 categories of almost equal distribution
